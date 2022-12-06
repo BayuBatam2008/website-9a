@@ -1,15 +1,27 @@
 # Website Untuk Kelas 9A
-Udah Sih, Gitu Aja
+Udah Sih, Gitu Aja. Gk Ada Yang Aneh-aneh
 
-# Getting Started
+## Perubahan Yang Dilakukan
+- Ubah index.md
+- Ubah Header
+- Ubah Footer
+- Ubah Page /blog => /about
+- Ubah /about
 
-### 1. Navigate to the directory
+# Memulai
+### 1. Copy Git Ini Ke Lokal
+
+```
+git clone https://github.com/BayuBatam2008/website-9a/
+```
+
+### 2. Masuk Ke Dalam Direktori
 
 ```
 cd website-9a
 ```
 
-### 3. Install dependencies
+### 3. Install Paket Yang Diperlukan
 
 ```
 npm install
@@ -17,18 +29,18 @@ npm install
 
 ### 4. Edit _data/metadata.json
 
-### 5. Run Eleventy
+### 5. Jalankan Eleventy
 
 ```
 npm start
 ```
 
-In debug mode:
+Debug Mode:
 ```
 DEBUG=* npx eleventy
 ```
 
-To build 
+Build:
 ```
 npm run build
 ```
