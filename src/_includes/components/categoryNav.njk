@@ -2,14 +2,14 @@
 <nav role="navigation" aria-label="category navigation" >
   <span>Filter siswa dari jenis kelamin:</span>
   <ul>
-    <li class="category__link {{ ' active' if page.url == '/blog/'}}">
+    <li class="category__link {{ ' active' if page.url == '/about/'}}">
       <a class="category__link" 
-        href="/blog"
-        {{ "aria-current" if page.url === "/blog/" }}
+        href="/about"
+        {{ "aria-current" if page.url === "/about/" }}
           >semua</a>
     </li>
     {%- for category in categories %}
-    {% set catUrl = ["/blog/", category.key, "/" ] |  join %}
+    {% set catUrl = ["/about/", category.key, "/" ] |  join %}
     <li class="category__link {{ ' active' if page.url == catUrl }}">
       <a href="{{ catUrl }}"
       {{ "aria-current" if page.url == catUrl }}>
