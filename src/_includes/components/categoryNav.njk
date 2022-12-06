@@ -6,7 +6,7 @@
       <a class="category__link" 
         href="/blog"
         {{ "aria-current" if page.url === "/blog/" }}
-          >all</a>
+          >semua</a>
     </li>
     {%- for category in categories %}
     {% set catUrl = ["/blog/", category.key, "/" ] |  join %}
