@@ -3,7 +3,7 @@ const slugify = require('slugify')
 module.exports = (collectionApi) => {
   const categories = {}
 
-  collectionApi.getFilteredByGlob('./src/blog/*.md').forEach(item => {
+  collectionApi.getFilteredByGlob('./src/about/*.md').forEach(item => {
     let category = item.data.category
       
     // Ignore the ones without a category
