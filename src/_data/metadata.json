@@ -1,11 +1,11 @@
 {
-  "title": "Eleventy Not so minimal blog starter",
-  "url": "https://eleventy-not-so-minimal-blog-starter.netlify.app",
+  "title": "Kelas 9A",
+  "url": "https://9a.palpale.xyz",
   "language": "en",
-  "description": "Build your own website + blog with the 'not so minimal blog starter' which uses the Eleventy static site generator.",
+  "description": "Website Kelas 9A",
   "author": {
-    "name": "firstname lastname",
-    "email": "hello@blog.com"
+    "name": "Bayu",
+    "email": "admin@palpale.xyz"
   },
   "image": "/assets/social-image.jpg",
   "feedUrl": "https://eleventy-not-so-minimal-blog-starter.netlify.app/feed.xml"
