@@ -3,7 +3,7 @@ const slugify = require('slugify')
 module.exports = (collectionApi) => {
   const catPages = []
   let categories = []
-  const blogPosts = collectionApi.getFilteredByGlob('./src/blog/*.md')
+  const blogPosts = collectionApi.getFilteredByGlob('./src/about/*.md')
 
   blogPosts.map((item) => {        
     let category = item.data.category
