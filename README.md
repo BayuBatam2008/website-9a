@@ -8,7 +8,7 @@ Udah Sih, Gitu Aja. Gk Ada Yang Aneh-aneh
 - Ubah Page /blog => /about
 - Ubah /about
 
-# Memulai
+## Memulai
 ### 1. Copy Git Ini Ke Lokal
 
 ```
@@ -43,4 +43,9 @@ DEBUG=* npx eleventy
 Build:
 ```
 npm run build
+```
+
+## Credit
+```
+https://github.com/Mangamaui/eleventy-not-so-minimal-blog-starter
 ```
