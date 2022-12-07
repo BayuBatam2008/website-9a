@@ -12,7 +12,7 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 
 ### Super Mario
 
-<iframe width="480" height="360" src="https://game-scratch.vercel.app/" title="Super Mario 9A Gio" frameborder="0"</iframe>
+<iframe src="https://turbowarp.org/554835616/embed" width="499" height="416" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <i>*Hanya Bisa Menggunakan Keyboard</i>
 
