@@ -4,6 +4,14 @@ eleventyNavigation:
   key: home
   order: 1
 ---
+
+# Halo!
+Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
+
+## Game-game Kami
+
+### Super Mario
+
 <class>
   .container {
    position: relative;
@@ -22,13 +30,6 @@ eleventyNavigation:
    height: 100%;
   }
 </class>
-# Halo!
-Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
-
-## Game-game Kami
-
-### Super Mario
-
 <div class="container">
  <object data="https://game-scratch.vercel.app/" width="100%" height="100%" align="left" allowtransparency="true" frameborder="0" scrolling="no" class="responsive-iframe">
 </object>
