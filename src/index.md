@@ -30,9 +30,16 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 
 ## Siapa Kami?
 Kami Adalah Siswa/Siswi Kelas 9A Tahun 2022/2023. Kami Bersekolah Di Sekolah Charitas Batam.
-Kami Merupakan Angkatan 15 (XV)
+Kami Merupakan Angkatan Ke 15 (XV).
 
 ## Organisasi
-- Wali Kelas
+- Wali Kelas :
   - Bu Anne
-
+- Ketua Kelas :
+  - Gio
+- Sekretaris :
+  - Johan
+  - Carene
+- Bendahara :
+  - Keenan
+  - Kevin
