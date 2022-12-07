@@ -1,6 +1,6 @@
 ---
 layout: article
 title: Jocelyn Bianca (Celyn)
-date: 2008-05-08 
+date: 2008-08-03
 category: "perempuan"
 ---
