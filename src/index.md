@@ -14,9 +14,9 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 <link rel="stylesheet" href="/assets/theming/frame.css">
 <div style="--aspect-ratio: 4/3;">
   <iframe 
-    src="https://scratch-game.vercel.app"
-    width="480"
-    height="360"
+    src="https://turbowarp.org/554835616/embed"
+    width="499"
+    height="416"
     frameborder="0"
   >
   </iframe>
