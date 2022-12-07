@@ -12,7 +12,7 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 
 ### Super Mario
 <link rel="stylesheet" href="/assets/theming/frame.css">
-<div style="--aspect-ratio: 4/3;">
+<div style="--aspect-ratio: 6/5;">
   <iframe 
     src="https://turbowarp.org/554835616/embed"
     width="499"
