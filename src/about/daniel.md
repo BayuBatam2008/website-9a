@@ -1,6 +1,6 @@
 ---
 layout: article
 title: Daniel Rafael Pargogoan Sitanggang (Daniel)
-date: 2008-05-08 
+date: 2008-12-25
 category: "laki-laki"
 ---
