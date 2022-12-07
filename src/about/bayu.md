@@ -19,10 +19,10 @@ Sama Gua Juga Suka Foto Hal Random.
 
 Nikmati Foto-foto Random Ini.
 
-![Sunset](../assets/image/bayu/IMG_20220129_175525.jpg)
+![Sunset](https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20220129_175525.jpg)
 
-![Sunset 2](../assets/image/bayu/IMG_20220129_175034.jpg)
+![Sunset 2](https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20220129_175034.jpg)
 
-![Sea](../assets/image/bayu/IMG_20210627_204116.jpg)
+![Sea](https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20210627_204116.jpg)
 
 *Ya, Gua Semua Yang Foto*
