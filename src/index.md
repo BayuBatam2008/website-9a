@@ -12,7 +12,7 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 
 ### Super Mario
 
-<iframe src="https://turbowarp.org/554835616/embed" width="499" height="416" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://turbowarp.org/554835616/embed" width="100%" height="100%" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <i>*Hanya Bisa Menggunakan Keyboard</i>
 
