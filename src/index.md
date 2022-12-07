@@ -12,9 +12,9 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 
 ### Super Mario
 <link rel="stylesheet" href="/assets/theming/frame.css">
-<div style="--aspect-ratio: 6/5;">
+<div style="--aspect-ratio: 4/3;">
   <iframe 
-    src="https://turbowarp.org/554835616/embed"
+    src="https://game-scratch.vercel.app"
     width="100%"
     height="100%"
     frameborder="0"
