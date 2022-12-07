@@ -32,7 +32,7 @@ window.addEventListener('DOMContentLoaded', function(e) {
 } );
 
 </script>
-<iframe src="https://turbowarp.org/554835616/embed" width="100%" height="100%" id="iFrame1" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://turbowarp.org/554835616/embed" width="100%" height="100%" id="iFrame1" align="left" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <i>*Hanya Bisa Menggunakan Keyboard</i>
 
