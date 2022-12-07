@@ -11,14 +11,10 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 ## Game-game Kami
 
 ### Super Mario
-<link rel="stylesheet" href="/assets/theming/frame.css">
-<div style="--aspect-ratio: 4/3;">
-  <iframe 
+<div style="padding-bottom:75%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
     src="https://game-scratch.vercel.app"
-    width="100%"
-    height="100%"
-    frameborder="0"
-  >
+    frameborder="0" allowfullscreen="no" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
 <i>*Hanya Bisa Menggunakan Keyboard</i>
