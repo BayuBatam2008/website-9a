@@ -29,5 +29,10 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 <i>*Sama, Hanya Pakai Keyboard</i>
 
 ## Siapa Kami?
-Kami Adalah Orang Random
+Kami Adalah Siswa/Siswi Kelas 9A Tahun 2022/2023. Kami Bersekolah Di Sekolah Charitas Batam.
+Kami Merupakan Angkatan 15 (XV)
+
+## Organisasi
+- Wali Kelas
+  - Bu Anne
 
