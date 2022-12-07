@@ -15,5 +15,6 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 
 <i>*Hanya Bisa Menggunakan Keyboard</i>
 
-
+## Siapa Kami?
+Kami Adalah Orang Random
 
