@@ -15,8 +15,8 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 <div style="--aspect-ratio: 6/5;">
   <iframe 
     src="https://turbowarp.org/554835616/embed"
-    width="499"
-    height="416"
+    width="100%"
+    height="100%"
     frameborder="0"
   >
   </iframe>
