@@ -19,8 +19,8 @@ Sama Gua Juga Suka Foto Hal Random.
 
 Nikmati Foto-foto Random Ini.
 
-![Foto Random 1](src/assets/image/bayu/IMG_20220129_175525.jpg)
+![Foto Random 1](./assets/image/bayu/IMG_20220129_175525.jpg)
 
-![Foto Random 2](src/assets/image/bayu/IMG_20220129_175034.jpg)
+![Foto Random 2](./assets/image/bayu/IMG_20220129_175034.jpg)
 
-![Foto Random 3](src/assets/image/bayu/IMG_20210627_204116.jpg)
+![Foto Random 3](./assets/image/bayu/IMG_20210627_204116.jpg)
