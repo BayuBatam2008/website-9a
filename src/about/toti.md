@@ -1,6 +1,6 @@
 ---
 layout: article
 title: Stanislaus Timothy Sihite (Toti)
-date: 
+date: 2008-05-08 
 category: "laki-laki"
 ---
