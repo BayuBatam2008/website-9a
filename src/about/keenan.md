@@ -1,6 +1,6 @@
 ---
 layout: article
 title: Keenan Hasahatan Sihombing (Keenan)
-date: 
+date: 2008-05-08 
 category: "laki-laki"
 ---
