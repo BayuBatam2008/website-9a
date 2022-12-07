@@ -29,3 +29,5 @@ Dan Sama Seperti Bayu aku suka foto random ( Tapi lebih jarang )
     frameborder="0" allowfullscreen="no" style="position:absolute; top:0; left: 0">
   </object>
 </div>
+
+*Aku juga selalu minum Coffee agar ngak tidur waktu pelajaran*
