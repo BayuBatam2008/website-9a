@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Bayu Stevanus Gerard Simamora
+title: Bayu Stevanus Gerard Simamora (Bayu)
 date: 2008-05-08
 category: "laki-laki"
 ---
