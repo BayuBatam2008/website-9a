@@ -1,6 +1,6 @@
 ---
 layout: article
 title: Sharron Natasya Oyong (Sharron)
-date: 2008-05-08 
+date: 2008-07-15
 category: "perempuan"
 ---
