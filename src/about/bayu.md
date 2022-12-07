@@ -19,10 +19,25 @@ Sama Gua Juga Suka Foto Hal Random.
 
 Nikmati Foto-foto Random Ini.
 
-![Sunset](https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20220129_175525.jpg)
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20220129_175525.jpg"
+    frameborder="0" allowfullscreen="no" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
-![Sunset 2](https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20220129_175034.jpg)
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20220129_175034.jpg"
+    frameborder="0" allowfullscreen="no" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
-![Sea](https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20210627_204116.jpg)
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://raw.githubusercontent.com/BayuBatam2008/website-9a/main/src/assets/image/bayu/IMG_20210627_204116.jpg"
+    frameborder="0" allowfullscreen="no" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 *Ya, Gua Semua Yang Foto*
