@@ -19,6 +19,11 @@ Perkenalkan Kami Dari Kelas 9A Kami Akan Menampilkan Website Interaktif Kami.
 </div>
 <i>*Hanya Bisa Menggunakan Keyboard</i>
 
+### Labirin
+<iframe width="100%" height="100%" src="https://game-scratch.vercel.app/labirin-gio.html
+ frameborder="0">
+<i>*Sama, Hanya Pakai Keyboard</i>
+
 ## Siapa Kami?
 Kami Adalah Orang Random
 
