@@ -43,6 +43,23 @@ Kami Merupakan Angkatan Ke 15 (XV).
 - Bendahara :
   - Keenan
   - Kevin
+- Sie Kebersihan :
+  - Olda
+  - Xave
+- Sie Kerapihan :
+  - Farrold
+  - Rendra
+- Sie Kekeluargaan :
+  - Patricia
+  - Leo
+- Sie Keamanan :
+  - Rory
+- Sie Mading :
+  - Josua
+  - Welson
+  - Toti
+  - Irene
+  - Jocelyn
 
 ## Foto Kelas
 <div style="padding-bottom:177.77%; position:relative; display:block; width: 100%">
